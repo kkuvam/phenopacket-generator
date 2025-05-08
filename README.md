@@ -12,7 +12,6 @@ Everything runs client‑side in plain HTML + JavaScript—no build step or 
 | **Interactive form** | • Basic subject metadata<br>• Remote HPO lookup (Select2 + Jackson Lab API)<br>• VCF filename/URL field |
 | **Instant YAML** | Standards‑compliant phenopacket YAML generated in‑browser with **js‑yaml** |
 | **Download** | Saves the YAML to **`<subject‑ID>.yml`** (default: `unknown.yml`) |
-| **Job interface shell** | Fixed top bar with a **Job Status** icon linking to a future queue/status view |
 | **100 % client‑side** | Works offline once opened; deploy on any static host (GitHub Pages, Netlify, S3, …) |
 
 ---
