@@ -42,8 +42,7 @@ Open the URL in your browser.
 
 ```
 phenopacket-generator/
-├── index.html          # main app (Phenopacket builder)
-├── job-status.html     # placeholder for queue / status view
+├── phenopacket.html          # main app (Phenopacket builder)
 └── README.md
 ```
 
